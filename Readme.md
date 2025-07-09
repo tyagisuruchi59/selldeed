@@ -21,3 +21,8 @@ This project generates a downloadable **Sale Deed PDF** by taking user input fro
    ```bash
    git clone <repository-url>
    cd sale-deed-website
+
+2. **Strating Website**:
+   ```bash
+   npm i
+   npm run dev
